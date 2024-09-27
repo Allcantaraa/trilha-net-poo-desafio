@@ -1,0 +1,14 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\POO-desafio\bin\Debug\net8.0\POO-desafio.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\POO-desafio\bin\Debug\net8.0\POO-desafio.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\POO-desafio\bin\Debug\net8.0\POO-desafio.runtimeconfig.json
+C:\Users\ferna\OneDrive\Área de Trabalho\POO-desafio\bin\Debug\net8.0\POO-desafio.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\POO-desafio\bin\Debug\net8.0\POO-desafio.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\POO-desafio\obj\Debug\net8.0\POO-desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\POO-desafio\obj\Debug\net8.0\POO-desafio.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\POO-desafio\obj\Debug\net8.0\POO-desafio.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\POO-desafio\obj\Debug\net8.0\POO-desafio.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\POO-desafio\obj\Debug\net8.0\POO-desafio.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\POO-desafio\obj\Debug\net8.0\refint\POO-desafio.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\POO-desafio\obj\Debug\net8.0\POO-desafio.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\POO-desafio\obj\Debug\net8.0\POO-desafio.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\POO-desafio\obj\Debug\net8.0\ref\POO-desafio.dll
